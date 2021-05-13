@@ -122,8 +122,8 @@ a048c01d519fd1ed81aaedaf8eb42ec3
 -----END OpenVPN Static key V1-----
 </tls-auth>"},
      
-     {"id":1,"file":"
-     setenv FORWARD_COMPATIBLE 1
+{"id":1,"file":"
+setenv FORWARD_COMPATIBLE 1
 client
 server-poll-timeout 4
 nobind
